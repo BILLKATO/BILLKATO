@@ -14,6 +14,11 @@
 - 💬 Pergunte-me sobre ...
 - 😄 Pronomes: ...
 - ⚡ Curiosidade: ...
+<br>
+
+<div>
+  <canvas id = "canvas" width="600" height="480"> </canvas>
+</div>
 
 
 ## Conhecimentos 📕
@@ -42,6 +47,6 @@
 ## Status ⭐
 <div style="display: inline_block">
 <a href="https://github.com/BILLKATO">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BILLKATO&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BILLKATO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BILLKATO&layout=compact&langs_count=7&theme=dracula"/>
+<img height="33.5%" src="https://github-readme-stats.vercel.app/api?username=BILLKATO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div><br>
