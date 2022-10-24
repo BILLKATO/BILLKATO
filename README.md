@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<canvas id = "canvas" width="100" height="100" bgcolor = "white"> </canvas>
+<canvas id = "canvas" width="100" height="100" bgcolor = "black"> </canvas>
 
 <!---
 BILLKATO/BILLKATO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
