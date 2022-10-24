@@ -1,18 +1,47 @@
-- 👋 Hi, I’m @BILLKATO
-- 👀 I’m interested in ...
+# Gabriel Mitsuo Kaiya
+## 👋 Hello! Welcome to my Github profile.
+
+- 👋 Hi, I’m Gabriel
+- 👀 I’m interested in 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: biel.mk@hotmail.com
 
-<canvas id = "canvas" width="100" height="100" bgcolor = "black"> </canvas>
+- 🔭 Atualmente estou trabalhando em ...
+- 🌱 Atualmente estou aprendendo ...
+- 👯 Estou procurando colaborar em ...
+- 🤔 Estou procurando ajuda com ...
+- 💬 Pergunte-me sobre ...
+- 😄 Pronomes: ...
+- ⚡ Curiosidade: ...
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+ <iframe src="https://www.google.com" title="Test"></iframe>
+</div>
+
+## Conhecimentos 📕
+<div style="display: inline_block">
+  <img  height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img  height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <img  height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+  <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />    
+  <img  height="35" width="45"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
+  <img  height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+  <img  height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" />
+  <img  height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" />
+</div>
+
+## Ferramentas que uso 🛠️
+<div>
+  <img height="40%" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
+  <img height="40%" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img height="40%" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+  <img height="40%" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+
+<div style="display: inline_block">
+<a href="https://github.com/BILLKATO">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BILLKATO&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BILLKATO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-<!---
-BILLKATO/BILLKATO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
