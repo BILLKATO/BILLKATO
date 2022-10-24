@@ -15,9 +15,6 @@
 - 😄 Pronomes: ...
 - ⚡ Curiosidade: ...
 
-<div>
- <iframe src="https://www.google.com" title="Test"></iframe>
-</div>
 
 ## Conhecimentos 📕
 <div style="display: inline_block">
@@ -29,7 +26,9 @@
   <img  height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
   <img  height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" />
   <img  height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" />
-</div>
+</div><br>
+
+
 
 ## Ferramentas que uso 🛠️
 <div>
@@ -37,11 +36,12 @@
   <img height="40%" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img height="40%" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
   <img height="40%" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+</div><br>
 
 
+## Status ⭐
 <div style="display: inline_block">
 <a href="https://github.com/BILLKATO">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BILLKATO&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BILLKATO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+</div><br>
