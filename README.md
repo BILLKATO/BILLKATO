@@ -16,11 +16,6 @@
 - ⚡ Curiosidade: ...
 <br>
 
-<div>
-  <canvas id = "canvas" height="35" width="45" style="border:1px solid #000000;"> </canvas>
-</div>
-
-
 ## Conhecimentos 📕
 <div style="display: inline_block">
   <img  height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
