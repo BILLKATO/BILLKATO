@@ -16,8 +16,8 @@
 - ⚡ Curiosidade: ...
 <br>
 
-<div>
-  <canvas id = "canvas" width="600" height="480"> </canvas>
+<div onload = "inicializar()">
+  <canvas id = "canvas" height="35" width="45"> </canvas>
 </div>
 
 
@@ -50,3 +50,17 @@
 <img height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BILLKATO&layout=compact&langs_count=7&theme=dracula"/>
 <img height="33.5%" src="https://github-readme-stats.vercel.app/api?username=BILLKATO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div><br>
+
+<script type="text/javascript">
+       function inicializar()
+      {
+        canvas = document.getElementById("canvas");
+        context = canvas.getContext("2d");
+
+		canvas.width = window.screen.width-200;
+		canvas.height = window.screen.height-200;
+        intervalo = setInterval(desenha, 100);
+      }
+  </script>
+  
+  
