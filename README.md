@@ -10,7 +10,7 @@
 - 📫 How to reach me: biel.mk@hotmail.com.
 - ⚡ Curiosities: My favorite movie is "Player Nº 1".
 - 🐶 Pets: I don't have any, but I love cats.
-- 🎮 I play video games.
+- 🎮 hobbies: I play video games.
 <br>
 
 ## Knowledges 📕
@@ -40,7 +40,7 @@
 
 
 ## Status 📊
-<div style="display: inline_block">
+<div style="display: inline_block" dir="auto">
 <a href="https://github.com/BILLKATO">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BILLKATO&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BILLKATO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -48,12 +48,9 @@
   
  
 ## Social midia 📱
-<div style="display: inline_block">
+<div align="left" dir="auto">
 <a href="https://www.linkedin.com/in/gabriel-kaiya/"><img  height="40%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  
 <a href="mailto: biel.mk@hotmail.com"><img  height="40%" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
-
 <a href="https://www.facebook.com/gabriel.mitsuokaiya/"><img  height="40%" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-
 <a href="https://www.instagram.com/bielkaiya/"><img  height="40%" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
