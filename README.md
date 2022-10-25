@@ -2,16 +2,18 @@
 ## 👋 Hello! Welcome to my Github profile.
 
 - 👋 Hi, I’m Gabriel.
-- 👨‍💻 I’m Back-end developer
+- 👨‍💻 I’m Back-end developer.
+- 🖥️ I’m computer engineer.
 - 👀 I’m interested in learn more about coding.
 - 💞️ I loving coding.
 - 🌱 I’m currently learning more about programming languages like C# and NodeJs.
 - 📫 How to reach me: biel.mk@hotmail.com.
 - ⚡ Curiosities: My favorite movie is "Player Nº 1".
 - 🐶 Pets: I don't have any, but I love cats.
+- 🎮 I play video games.
 <br>
 
-## knowledges 📕
+## Knowledges 📕
 <div style="display: inline_block">
   <img  height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
   <img  height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
